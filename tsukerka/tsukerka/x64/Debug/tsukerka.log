@@ -1,0 +1,4 @@
+﻿  tsukerka.cpp
+C:\Users\79152\source\repos\tsukerka\tsukerka\tsukerka.cpp(85,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79152\source\repos\tsukerka\tsukerka\tsukerka.cpp(95,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  tsukerka.vcxproj -> C:\Users\79152\source\repos\tsukerka\x64\Debug\tsukerka.exe
